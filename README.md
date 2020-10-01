@@ -1,5 +1,5 @@
 # Convert Image To Transparent 
-Simple converting image with white background to transparent using python
+Simple converting image with white background to transparent using python #Artificial_intelligence
 
   Input Image             |        Ouput Image
 :-------------------------:|:-------------------------:
